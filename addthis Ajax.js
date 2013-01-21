@@ -1,4 +1,4 @@
-    <div class="box-social" > 
+/*    <div class="box-social" > 
 <!-- AddThis Button BEGIN -->
 
 <a class="addthis_button_facebook_like" fb:like:layout="box_count" addthis:url="<?php the_permalink(); ?>"></a>
@@ -24,7 +24,7 @@ echo "";
 }
 ?>
 
-
+*/
 
  		function append_social_plugin(){
 // Init addthis
